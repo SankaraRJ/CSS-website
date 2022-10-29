@@ -1,0 +1,154 @@
+
+.topcontainer{
+  background-color: #71C9CE;
+  position: relative;
+  text-align: center;
+  padding-top: 100px;
+}
+
+body{
+  margin: 0px;
+font-family: 'Merriweather', serif;
+}
+
+h1{
+  line-height: 2;
+  margin: 50px auto 0 auto;
+  font-size: 5.625rem;
+  font-family: 'Sacramento', cursive;
+  color: #6A2C70;
+}
+
+h2{
+font-family: 'Montserrat', sans-serif;
+font-size: 2.5rem;
+color: #6A2C70;
+font-weight: normal;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+
+
+}
+.font{
+  width: 30%;
+  margin: auto;
+    line-height: 2;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 250px;
+  bottom:  300px;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 350px;
+  top:  40px;
+
+}
+/*
+.profile{
+  text-align: center;
+}
+
+.react{
+  border-radius: 100%;
+  width: 25%;
+
+}
+/*
+.skills{
+  text-align: center;
+}
+.nodejs{
+  border-radius: 100%;
+  width: 25%;
+
+}*/
+
+.contact-me{
+  text-align: center;
+}
+.middle-container{
+  text-align: center;
+  margin: 100px auto;
+}
+.bottom-container{
+  text-align: center;
+  background-color: #11999E;
+padding: 20px;
+
+}
+.footer-link{
+  margin: 10px 30px;
+}
+.color{
+  color: black;
+
+}
+.skill-row{
+  width: 50%;
+  margin: auto;
+  text-align: left;
+  display: inline-block;
+    line-height: 2;
+  margin-top: 30px
+}
+.nodejs{
+  border-radius: 100%;
+  margin-left: 10px;
+float: right;
+}
+.react{
+  border-radius: 100%;
+margin-right:  20px;
+float: left;
+}
+hr{
+  border-style: none;
+  border-top: dotted #11999E 6px;
+  border-color: #grey;
+  border-width: 5px;
+  width: 5%;
+margin: 25px auto;
+padding: 10px;
+}
+.call{
+  display: inline-block;
+  background-color:  #11999E;
+  text-decoration-color: black;
+
+}
+.color1{
+    color: black;
+    width: 30%;
+    margin: auto;
+      line-height: 2;
+}
+.intro{
+  width: 32%;
+  margin: auto;
+    line-height: 2;
+    padding-bottom: 15px;
+}
+.p{
+    line-height: 2;
+}
+
+.color:hover{
+  color: white;
+}
+.call:hover{
+  color: white;
+}
+.cpy:hover{
+  color: white;
+}
+.cpy{
+  font-size: 20px;
+;
+}
